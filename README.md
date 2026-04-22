@@ -71,31 +71,34 @@ Inspirado no funcionamento do cérebro humano.
 
 ---
 
-## 👨‍💻 O que estou construindo
+## 🚀 Projetos e Experimentações
 
-Estou desenvolvendo sistemas cognitivos aplicados a problemas reais.
+Os sistemas práticos deste trabalho são desenvolvidos e documentados em:
 
-Cada projeto responde a uma pergunta fundamental:
+👉 https://github.com/tiago-coutinho/neocortex
 
->Como usar tecnologia para ampliar o pensamento humano  
-sem perder contexto, sentido e responsabilidade?
+Lá você encontrará:
 
-Projetos em desenvolvimento:
+– experimentos cognitivos
+– protótipos funcionais
+– decisões técnicas documentadas
+– evolução dos sistemas ao longo do tempo
 
-- 🧩 Libras Player → acessibilidade cognitiva para vídeos
-- 🔐 IA Auditável → redução de alucinação e aumento de confiança
-- 🧠 Sistemas de Decisão → estruturação de escolhas complexas
-- 🌱 Agro Cognitivo → tecnologia como leitura de ecossistemas vivos
+Este repositório (perfil) apresenta a visão.
+
+O Neocortex apresenta a execução.
 
 ---
 
 ## 🧩 Estrutura do pensamento
 
-Este repositório não é organizado por stacks.
+Este repositório não organiza projetos.
 
-Mas por formas de relação entre tecnologia e humano.
+Ele organiza uma forma de pensar.
 
-Cada diretório representa um paradigma:
+O Método Neocortex estrutura a tecnologia a partir de quatro relações fundamentais entre sistemas digitais e cognição humana.
+
+Essas relações dão origem aos seguintes domínios:
 
 ---
 
@@ -103,13 +106,9 @@ Cada diretório representa um paradigma:
 
 **Tecnologia como geradora de confiança**
 
-Sistemas que:
+Sistemas que reduzem assimetrias de informação, tornam processos verificáveis e restauram a possibilidade de confiar.
 
-– reduzem assimetrias de informação  
-– tornam processos verificáveis  
-– restauram a possibilidade de confiar  
-
-→ A tecnologia não convence. Ela **explica**.
+→ A tecnologia não convence. Ela explica.
 
 ---
 
@@ -117,13 +116,9 @@ Sistemas que:
 
 **Tecnologia como espelho cognitivo**
 
-Sistemas que:
+Sistemas que tornam visível o que normalmente passa despercebido, revelando padrões, hábitos e vieses.
 
-– tornam visível o que normalmente passa despercebido  
-– revelam padrões, hábitos e vieses  
-– ampliam consciência sobre comportamento  
-
-→ A tecnologia não orienta. Ela **revela**.
+→ A tecnologia não orienta. Ela revela.
 
 ---
 
@@ -131,14 +126,9 @@ Sistemas que:
 
 **Tecnologia como clareadora de decisões**
 
-Sistemas que:
+Sistemas que estruturam dilemas, explicitam consequências e conectam dados à ação.
 
-– estruturam dilemas  
-– explicitam consequências  
-– reduzem o ruído emocional  
-– conectam dados à ação  
-
-→ A tecnologia não escolhe. Ela **organiza**.
+→ A tecnologia não escolhe. Ela organiza.
 
 ---
 
@@ -146,38 +136,44 @@ Sistemas que:
 
 **Tecnologia como mediadora de sentido**
 
-Sistemas que:
+Sistemas que trabalham com linguagem, símbolos e valores, ampliando a construção de significado.
 
-– trabalham com linguagem, símbolos e valores  
-– conectam comunicação, experiência e interpretação  
-– ampliam a construção de significado  
-
-→ A tecnologia não cria sentido sozinha. Ela **dialoga**.
+→ A tecnologia não cria sentido sozinha. Ela dialoga.
 
 ---
 
-## 📖 Como ler este repositório
+## 🔗 Onde isso acontece na prática
 
-Você vai encontrar aqui:
+Os projetos, experimentos e sistemas desenvolvidos a partir desses domínios estão organizados em:
 
-– experimentos  
-– modelos de pensamento  
-– decisões documentadas  
-– sistemas em evolução  
+👉 https://github.com/tiago-coutinho/neocortex
 
-Cada projeto é um laboratório.
+Lá, cada domínio se transforma em sistemas reais, documentados como laboratórios em evolução.
 
 ---
 
-## 🚫 O que este projeto não é
+📖 Como ler este repositório
 
-❌ Não é um portfólio tradicional  
-❌ Não é um showcase de código  
-❌ Não promete eficiência máxima  
+Este não é um repositório de execução.
 
-Este projeto existe para explorar limites, não para escondê-los.
+É um repositório de orientação.
 
----
+Aqui você encontrará:
+
+– a tese
+– o modelo mental
+– os princípios
+– a arquitetura conceitual
+
+Se quiser ver a tecnologia em funcionamento, vá para o repositório Neocortex.
+
+🚫 O que este projeto não é
+
+❌ Não é um portfólio tradicional
+❌ Não é um repositório de código
+❌ Não é um catálogo de projetos
+
+Este projeto existe para estruturar pensamento — não para exibir soluções prontas.
 
 ## 🔒 Sobre código e ferramentas
 
