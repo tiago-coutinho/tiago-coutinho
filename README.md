@@ -60,13 +60,19 @@ Ela expande a cognição humana.
 
 ## 🧠 Método Neocortex
 
+
 Cada sistema segue uma lógica baseada no Método Neocortex e inspirada no funcionamento do cérebro humano:
 
 – Enxerga o contexto em tempo real
+
 – Transforma dados em significado
+
 – Conecta informações em narrativas coerentes
+
 – Gera empatia e propósito
+
 – Equilibra razão e emoção para orientar decisões
+
 – Aprende continuamente
 
 ---
@@ -80,8 +86,11 @@ Os sistemas práticos deste trabalho são desenvolvidos e documentados em:
 Lá você encontrará:
 
 – experimentos cognitivos
+
 – protótipos funcionais
+
 – decisões técnicas documentadas
+
 – evolução dos sistemas ao longo do tempo
 
 Este repositório (perfil) apresenta a visão.
@@ -109,6 +118,7 @@ Essas relações dão origem aos seguintes domínios:
 Sistemas que reduzem assimetrias de informação, tornam processos verificáveis e restauram a possibilidade de confiar.
 
 → A tecnologia não convence. Ela explica.
+
 
 ---
 
@@ -161,9 +171,13 @@ Este não é um repositório de execução.
 Aqui você encontrará:
 
 – a tese
+
 – o modelo mental
+
 – os princípios
+
 – a arquitetura conceitual
+
 
 Se quiser ver a tecnologia em funcionamento, vá para o repositório Neocortex.
 
