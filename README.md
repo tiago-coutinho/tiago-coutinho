@@ -313,6 +313,14 @@ src="https://custom-icon-badges.demolab.com/github/followers/tiago-coutinho?colo
 />
 <img 
     align="left" 
+    alt="N8N" 
+    title="N8N"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/tiago-coutinho/Neocortex/assets/imagens/n8n_pink_white_logo.png" 
+/>
+<img 
+    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
@@ -356,7 +364,6 @@ alt="GitHub Stats"
 height="200"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-coutinho&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4"
 />
-##
    
 </p>
 
