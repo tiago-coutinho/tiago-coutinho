@@ -315,9 +315,9 @@ src="https://custom-icon-badges.demolab.com/github/followers/tiago-coutinho?colo
     align="left" 
     alt="N8N" 
     title="N8N"
-    width="30px" 
+    width="80" 
     style="padding-right: 10px;" 
-  ![N8N](https://raw.githubusercontent.com/tiago-coutinho/Neorcortex/main/assets/imagens/n8n_pink_white_logo.png)
+    src="https://raw.githubusercontent.com/tiago-coutinho/Neorcortex/main/assets/imagens/n8n_pink_white_logo.png" 
 />
 <img 
     align="left" 
