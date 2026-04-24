@@ -81,7 +81,7 @@ Cada sistema segue uma lógica baseada no Método Neocortex e inspirada no funci
 
 Os sistemas práticos deste trabalho são desenvolvidos e documentados em:
 
-👉 https://github.com/tiago-coutinho/neocortex
+👉 https://github.com/tiago-coutinho/Neocortex
 
 Lá você encontrará:
 
@@ -156,7 +156,7 @@ Sistemas que trabalham com linguagem, símbolos e valores, ampliando a construç
 
 Os projetos, experimentos e sistemas desenvolvidos a partir desses domínios estão organizados em:
 
-👉 https://github.com/tiago-coutinho/neocortex
+👉 https://github.com/tiago-coutinho/Neocortex
 
 Lá, cada domínio se transforma em sistemas reais, documentados como laboratórios em evolução.
 
