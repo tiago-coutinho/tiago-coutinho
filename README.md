@@ -156,7 +156,8 @@ Sistemas que trabalham com linguagem, símbolos e valores, ampliando a construç
 
 Os projetos, experimentos e sistemas desenvolvidos a partir desses domínios estão organizados em:
 
-👉 https://github.com/tiago-coutinho/Neocortex
+[
+👉 https://github.com/tiago-coutinho/Neocortex](https://github.com/tiago-coutinho/Neorcortex)
 
 Lá, cada domínio se transforma em sistemas reais, documentados como laboratórios em evolução.
 
