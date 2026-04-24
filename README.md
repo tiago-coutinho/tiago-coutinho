@@ -80,6 +80,7 @@ Cada sistema segue uma lógica baseada no Método Neocortex e inspirada no funci
 ## 🚀 Projetos e Experimentações
 
 Os sistemas práticos deste trabalho são desenvolvidos e documentados em:
+
 [
 👉 https://github.com/tiago-coutinho/Neocortex](https://github.com/tiago-coutinho/Neorcortex)
 
