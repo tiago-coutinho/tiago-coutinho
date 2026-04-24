@@ -317,7 +317,7 @@ src="https://custom-icon-badges.demolab.com/github/followers/tiago-coutinho?colo
     title="N8N"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/tiago-coutinho/Neocortex\assets\imagens\n8n_pink_white_logo" 
+    src="https://github.com/tiago-coutinho/Neocortex/assets/imagens/n8n_pink_white_logo" 
 />
 <img 
     align="left" 
