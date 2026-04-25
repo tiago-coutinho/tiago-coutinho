@@ -301,8 +301,16 @@ src="https://custom-icon-badges.demolab.com/github/followers/tiago-coutinho?colo
 ---
 
 ### 🤖 Linguagens e Tecnologias
+</p>
 
-
+<img 
+    align="left" 
+    alt="N8N" 
+    title="N8N"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/tiago-coutinho/Neorcortex/main/assets/imagens/lovable-logo-icon.png" 
+/>
 <img 
     align="left" 
     alt="Git" 
