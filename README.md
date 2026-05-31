@@ -263,7 +263,7 @@ Aqui, a gente não apenas constrói tecnologia.
 
 A gente aprende a pensar com ela.
 
-**Neocortex Digital — Não criamos tecnologias - Despertamos mentes digitais**
+**Neocortex Digital — Sua mente não termina em você.**
 
 ---
 
