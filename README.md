@@ -322,7 +322,7 @@ src="https://custom-icon-badges.demolab.com/github/followers/tiago-coutinho?colo
 <img 
     align="left" 
     alt="N8N" 
-    title="N8N"
+    title=
     width="80" 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/tiago-coutinho/Neorcortex/main/assets/imagens/n8n_pink_white_logo.png" 
