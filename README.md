@@ -1,8 +1,8 @@
-# 🧠 Neocortex
+# 🧠 Neocortex Digital
 
 > **Investigando como humanos e máquinas podem pensar melhor juntos.**
 
-A **Neocortex** é um laboratório público que investiga como tecnologias podem ampliar a forma como percebemos, pensamos, aprendemos e decidimos.
+A **Neocortex Digital** é um laboratório público que investiga como tecnologias podem ampliar a forma como percebemos, pensamos, aprendemos e decidimos.
 
 Mais do que desenvolver software, este espaço documenta uma investigação aberta sobre cognição humana, tecnologia e tomada de decisão.
 
